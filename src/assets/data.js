@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What programming language is often used for building web applications?",
+      option1: "java script",
+      option2: "python ",
+      option3: "java",
+      option4: "C++",
+      ans: 1,
+    },
+    {
+      question: "Which of the following is not a commonly used front-end framework?",
+      option1: "React",
+      option2: "Angular",
+      option3: "Vue.js",
+      option4: "Django",
+      ans: 4,
+    },
+    {
+      question: "Which operating system is developed by Apple Inc.?",
+      option1: "Windows",
+      option2: "MacOS",
+      option3: "Linux",
+      option4: "Android",
+      ans: 2,
+    },
+    {
+      question: "What data structure follows the Last In, First Out (LIFO) principle?",
+      option1: "Queue",
+      option2: "LinkedList",
+      option3: "Stack",
+      option4: "Tree",
+      ans: 3,
+    },
+    {
+      question: "Which protocol is used for secure communication over a computer network?",
+      option1: "UDP",
+      option2: "HTTP",
+      option3: "TCP",
+      option4: "SSH",
+      ans: 2,
+    },
+  ];
